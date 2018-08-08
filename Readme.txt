@@ -1,6 +1,2 @@
-"hello git" 
-
-"hi"
-
-updating readme.txt
-
+"gitignore file cant be added"
+"vim is not working directly"
